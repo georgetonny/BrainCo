@@ -1,0 +1,38 @@
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+body{
+    background: #34ce57;
+
+}
+colone{
+    background: #abdde5;
+    padding: 20px;
+    border-radius: 10px;
+}
+label{
+    color: #ffffff;
+
+}
+.top-menu{
+    background-color: #1c7430;
+}
+.text-area{
+    width: 90%;
+    color: #0056b3;
+    position: absolute;
+    text-align: center;
+}
+.text-area h1{
+    font-size: 64px;
+
+}
+text-area p{
+    margin: 10px 0 40px;
+    font-size: 18px;
+    color: white;
+}
+
